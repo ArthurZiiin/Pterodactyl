@@ -50,7 +50,7 @@ A forma recomendada de usar este script.
 Apenas para sistemas baseados em Debian.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/installer.sh)
+bash <(curl -s https://github.com/ArthurZiiin/Pterodactyl/releases/download/2.0/installer.sh))
 ```
 
 ### Creditos ao Tommy
